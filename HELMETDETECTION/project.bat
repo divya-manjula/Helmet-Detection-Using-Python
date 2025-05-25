@@ -1,0 +1,3 @@
+CD\
+CD C:\PROJECT\HELMETDETECTION
+python bike.py 
